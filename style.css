@@ -1,0 +1,9 @@
+body{
+  margin: 0px;
+  background-color: #abcdef;
+}
+header{
+  padding: 5px;
+  padding-left: 25px;
+  background-color: #fedcba;
+}
